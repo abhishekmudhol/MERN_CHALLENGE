@@ -3,13 +3,13 @@
 # Frontend look:
 
 1. **Transaction Page**  
-   <img src="./images/transaction.png" alt="Transaction Page" width="450" />
+   <img src="./images/transaction.png" alt="Transaction Page" width="850" />
 
 2. **Statistics Page**  
-   <img src="./images/statistics.png" alt="Statistics Page" width="450" />
+   <img src="./images/statistics.png" alt="Statistics Page" width="850" />
 
 3. **Barchart Page**  
-   <img src="./images/barchart.png" alt="Statistics Page" width="450" />
+   <img src="./images/barchart.png" alt="Statistics Page" width="850" />
 
 ---
 
